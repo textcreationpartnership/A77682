@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Major-Generall Brown, concerning the Lord Generall Fairfax, and the Army, and the raising of forces, for securing and guarding of the City of London, and putting it into a posture of warre. With his speech in Parliament touching the same, and his protestation thereupon. Also, the declaration, desires, and proposals of the House of Commons, to the Lord Generall. Subscribed, William Lenthall, Speaker. And His Maiesties speech concerning the Army, upon his comming to Hurst-Castle in VVilt-shire. Likewise. the resolution of the Army, touching the Parliament and city, and their joyfull propositions thereupon.</title>
+            <author>Browne, Richard, Sir, 1602?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77682</idno>
+            <idno type="STC">Wing B5142</idno>
+            <idno type="STC">Thomason E475_18</idno>
+            <idno type="STC">ESTC R205395</idno>
+            <idno type="EEBO-CITATION">99864793</idno>
+            <idno type="PROQUEST">99864793</idno>
+            <idno type="VID">162476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77682)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162476)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Major-Generall Brown, concerning the Lord Generall Fairfax, and the Army, and the raising of forces, for securing and guarding of the City of London, and putting it into a posture of warre. With his speech in Parliament touching the same, and his protestation thereupon. Also, the declaration, desires, and proposals of the House of Commons, to the Lord Generall. Subscribed, William Lenthall, Speaker. And His Maiesties speech concerning the Army, upon his comming to Hurst-Castle in VVilt-shire. Likewise. the resolution of the Army, touching the Parliament and city, and their joyfull propositions thereupon.</title>
+                  <author>Browne, Richard, Sir, 1602?-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. VV. neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 6.th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162476:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of Major-Generall BROWN, <hi>CONCERNING</hi> The Lord Generall <hi>Fairfax,</hi> and the Army, and the raiſing of Forces, for ſecuring and guarding of the City of <hi>London,</hi> and putting it into a poſture of WARRE.</p>
+            <p>WITH <hi>His Speech in Parliament touching the ſame, and his Protestation thereupon.</hi>
+            </p>
+            <p>ALSO, The Declaration, Deſires, and Propoſals of the Houſe of Commons, to the Lord Generall.</p>
+            <p>
+               <hi>Subſcribed,</hi> WILLIAM LENTHALL, Speaker.</p>
+            <p>AND His <hi>Maieſties</hi> Speech concerning the Army, upon his com<g ref="char:EOLhyphen"/>ming to Hurſt-Caſtle in <hi>VVilt-ſhire.</hi>
+            </p>
+            <p>LIKEWISE. The Reſolution of the Army, touching the Parliament and City, and their joyfull Propoſitious thereupon.</p>
+            <p>Printed for <hi>C. VV.</hi> neer the Royall Exchange in Cornhill, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162476:2"/>
+            <pb n="1" facs="tcp:162476:2"/>
+            <head>Major Generall BROWNE HIS SPEECH In <hi>PALIAMENT,</hi>
+            </head>
+            <div type="part">
+               <head>Concerning the Lord Generall <hi>Fairfax,</hi> and his De<g ref="char:EOLhyphen"/>claration touching the Army.</head>
+               <p>BOth Houſes having received a Letter from the Lord Generall <hi>Fairfax,</hi> for the gaining to ſuch ends as have been propoſed in the Armies late Remonſtrance, and preſſing them to the preſent appre<g ref="char:EOLhyphen"/>henſion of the dangerous Juncture of affaires; the Commons began to conſult upon the ſame, whoſe de<g ref="char:EOLhyphen"/>bates for'd up, and flew exceeding high; ſome moving
+<pb n="2" facs="tcp:162476:3"/> that his Excellencies Commiſſion might be made null and taken from him; Others, that the Army might be required to retreat 40 miles from <hi>London,</hi> and others moved, that the City might be put into a poſture of War; but Sheriff <hi>Brown</hi> ſtood up, and made an excel<g ref="char:EOLhyphen"/>lent Speech, declaring, <hi>That there was nothing to be ex<g ref="char:EOLhyphen"/>pected from the City, and that f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r his part he would indea<g ref="char:EOLhyphen"/>vour the preſervation of the peace thereof, and to keepe a right understanding between his Excellency, the City, and Army.</hi> And Mr <hi>Pryn</hi> declared his ſenſe and reſolution touching the Army, cyting many preſidents, that many have been voted traytors <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or diſobeying auth r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of Parliament, but for his part he would not ſay that any were ſuch. After ſome diſputation and debate thereon, the Houſe voted that a Declaratory Letter ſhould be preſented to the Generall, a coyy whereof followeth,</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>May it pleaſe your Excellency,</opener>
+                     <p>THe Houſe taking notice by your Letter of the 30. of <hi>Novem.</hi> touching the preſent motion and deſigne of the army, have commanded m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to let you know, that upon matu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e deliberate judging, that it may be dange<g ref="char:EOLhyphen"/>rous both to the City and army; it is their pleaſure that you remov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> not the army near <hi>London;</hi> and to the end the country may not be burthened with free quarter, nor the army want their due ſupport, they have com<g ref="char:EOLhyphen"/>manded me to acquaint you, that they have ſignified their pleaſure to the Lord Major, Aldermen, and com<g ref="char:EOLhyphen"/>mon councell, that they forth with provide the ſum of 40000. <hi>l.</hi> of ſo much thereof as they can poſſibly raiſe at preſent<g ref="char:punc">▪</g> and pay the ſame to the Treaſurers at wars, to be forthwith ſent unto you for our army, which be<g ref="char:EOLhyphen"/>ing all I have in command, I remain</p>
+                     <closer>
+                        <signed>Your humble ſervant, VVil. Lenthal <hi>Speaker.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:162476:3"/>
+               <head>The reſolution of the Army touching the Citizens of London, viz.</head>
+               <p>That a more equall diſpenſing of Juſtice and Mercy in relation to things done or ſuffered in the late wars, and the eſtabliſhing of the future Government of this <hi>king<g ref="char:EOLhyphen"/>dom</hi> upon a ſafe ſucceſſion and equall Conſtitution of Parliaments, and that (for the ending of preſent, and avoiding of future Differences) to be Ratified by an Agreement and Subſcription of the people therunto. Which things we preſſed in the way of Reaſon and Perſwaſion onely, that they might be duely and time<g ref="char:EOLhyphen"/>ly conſidered. But to our griefe we find, in ſtead of any Satisfacton or a reaſonable anſwer thereto, they are wholly rejected, without any conſideration of what ever Reaſon or Juſtice might be in the things ſet forth or propounded therein; for what leſſe can be underſtood, when the things propounded were mainly for the avoidance of evils appearing in the Treaty with the King: And ſeeing the prevailing part of thoſe, to whom we did apply, to have as it were their eyes wilfully ſhut, and eares ſtopt, againſt any thing of Light or Reaſon offered to them, we find no place left for our former charitable or hopefull ap<g ref="char:EOLhyphen"/>prehenſions, concerning their errour in ſuch evilf wayes; but remaining fully aſſured of the danger and deſtructiveneſſe thereof, as to all thoſe publique ends for which they were intruſted, and alſo of the juſt advantage and neceſſity which lie in the things we have propounded and inſiſt on, we now ſee nothing left, to which their engaging and perſiſting in ſuch waies, and rejection of theſe better things propounded, can rationally be attribur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d leſſe then a treacherous or
+<pb n="4" facs="tcp:162476:4"/> corrupt neglect of, and Apoſtacy from the Publique Truſt repoſed in them; although we could wiſh from our ſoules, we might yet find the contrary.</p>
+               <p>Therefore it is our hearts deſire, and ſhall be our endeavour, that ſo much, both of the matter and form of the preſent Parliamentory Authority may be pre<g ref="char:EOLhyphen"/>ſerved, as can be ſafe, or will be uſefull to theſe ends, untill a juſt and full Conſtitution thereof, both for matter and form (ſutable to the publique ends, it ſerves for) can be entroduced.</p>
+               <p>And therefore firſt, it ſhould be great rejoycing (if God ſaw it good) that the majority of the preſent Houſe of Commons were become ſenſible of the evil and diſtructiveneſſe of their late way, and would re<g ref="char:EOLhyphen"/>ſolvedly and vigorouſly apply themſelves to the ſpee<g ref="char:EOLhyphen"/>dy execution of juſtice, with the righting and caſing of the oppreſſed people, and to a juſt ſettlement of the Kingdome upon ſuch foundations as have been pro<g ref="char:EOLhyphen"/>pounded by us, and others for that purpoſe, and would for the ſpeedier and ſurer proſecution of theſe things exclude from Communication in their Councels, all ſuch corrupt and Apoſtarized Members as have ap<g ref="char:EOLhyphen"/>peared hitherto, but to obſtruct and hinder ſuch mat<g ref="char:EOLhyphen"/>ter of Juſtice, Safety, and publique intereſt, and to pervert their Councels a contrary way and have there<g ref="char:EOLhyphen"/>in ſo ſhamefully both falſified, and forftied their Truſt,</p>
+               <p>But however if God ſhal not ſee it good (to vouch<g ref="char:EOLhyphen"/>ſafe that mercy to them and the Kingdome) we ſhall ſecondly deſire, That ſo many of them as God hath kept upright, and ſhal touch with a juſt ſence of thoſe things, would by proteſtation or otherwiſe, acquit
+<pb n="5" facs="tcp:162476:4"/> themſelves from ſuch breach of Truſt, and approve, their faithfulneſſe, by withdrawing from thoſe that perſiſt in the guilt therof, &amp; take ſuch a poſture, wher<g ref="char:EOLhyphen"/>by they may ſpeedily &amp; effectually proſecute thoſe ne<g ref="char:EOLhyphen"/>ceſſary and publique ends, without ſuch inteerupti<g ref="char:EOLhyphen"/>ons, Diverſions, or depravations of their Councell from the reſt, to their endleſſe trouble, and hazard of the Kingdom as formerly, and for ſo many of them, whoſe hearts God ſhall ſtir up thus to do.</p>
+               <p>We ſhall therein, in this caſe of extremity, looke upon them as perſons having materially the chief Truſt of the Kingdom remaining in them, and though not a for<g ref="char:EOLhyphen"/>mall ſtanding power to be continued in them, or drawn into ordinary Preſidents; yet the beſt and moſt rightfull that can be had, as the preſent ſtate and exigence of af<g ref="char:EOLhyphen"/>fairs now ſtand; And we ſhal accordingly owne them, adhere to them, and be guided by them in their faithful profecution of that truſt, in order vnto, and until the in<g ref="char:EOLhyphen"/>troducing of a more full and formal power in a juſt Repreſentative to be ſpeedy endeavoured.</p>
+               <p>Now yet further to take away all jealouſies in rela<g ref="char:EOLhyphen"/>tion to our ſelves, which might with-hold or diſccurſe any honeſt members from this courage, as we have the witneſſe of God in our hearts, that in theſe proceedings we do not ſeek, but even reſolve we wil not take advan<g ref="char:EOLhyphen"/>tages to our ſelves, either in point of profit or power; and that if God did open to us a way, wherin with ho<g ref="char:EOLhyphen"/>neſty and faithfulneſſe to the publique Intereſt, &amp; good people ingaged for us, we might preſently be diſcharge<g ref="char:EOLunhyphen"/>ed, ſo as we might not in our preſent Employments <hi>look</hi> on, and be acceſſary to, yea ſupporters of the Parlia<g ref="char:EOLhyphen"/>ment, in the preſent corrupt, oppreſſive and deſtructive
+<pb n="6" facs="tcp:162476:5"/> proceedings, wee ſhould with rejoycing, and witho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> more ado, embrace ſuch a diſcharge, rather then inter<g ref="char:EOLhyphen"/>poſe in theſe things to our owne vaſt trouble and haz<g ref="char:EOLhyphen"/>zard; ſo if we could but obtain a rational aſſurance for the effectuall proſecuting of theſe things, we ſhall give any proportionable aſſurance on our parts, concer<g ref="char:EOLhyphen"/>ning our laying down of arms, when, and as we ſhould be required.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>His Maieſties Declaration upon his coming into</hi> Wiltſhire.</head>
+               <p>
+                  <hi>MY Lords,</hi> You are come to take your leave of me, and I believe we ſhall ſcarce ever ſee each other again: but Gods will be done, I thank God I have made my peace with him, and ſhall without fear undergoe what he ſhall be pleaſed to ſuffer men to do unto me. <hi>My Lords,</hi> you cannot but know, that in my fall and ru<g ref="char:EOLhyphen"/>ine, you ſee your own, and that alſo neer to you; I pray God ſend you better friends then I have found. I am fully infoamed of the whole cariage of the plot againſt me and mine; and nothing ſo much afflicts me, as the ſence and feeling I have of the ſufferings of my Sub<g ref="char:EOLhyphen"/>jects, and the miſerice that hang over my three King<g ref="char:EOLhyphen"/>domr, drawn upon them by thoſe who (upon pretences of good) violently purſue their own intereſts and ends. His Maj having thus declared himſelf, the Commiſſio<g ref="char:EOLhyphen"/>ners kiſſed his Maj. hand, and took their leave. And on Friday morning laſt, his Mai. was guarded by a troope of horſe from the <hi>Iſſe of VVight,</hi> to <hi>Hurſt Caſtle</hi> in <hi>VVilt<g ref="char:EOLhyphen"/>ſhire,</hi> where he is now ſecured, Cap. <hi>Mil<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ay,</hi> cap. <hi>loy<g ref="char:EOLhyphen"/>ner,</hi> cap. <hi>VVeston,</hi> Mr. <hi>Herbert,</hi> Mr. <hi>Cutchſide, Mr. Reding</hi> and <hi>Mr. Lewen,</hi> being appointed Attendants for his <hi>Maiesties</hi> perſon.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
